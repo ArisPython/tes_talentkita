@@ -1,5 +1,5 @@
 # Fungsi segitiga bintang
-def segitiga(n):
+def piramida(n):
 	
 	# Jumlah spasi
 	k = n - 1
@@ -26,4 +26,4 @@ def segitiga(n):
 # Input
 input_num = int(input("Masukkan angka:"))
 n = input_num
-segitiga(n)
+piramida(n)
